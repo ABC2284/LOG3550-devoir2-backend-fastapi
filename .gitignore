@@ -1,0 +1,15 @@
+# Environnement virtuel et caches Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Bases de données locales (jamais de vraies données dans le dépôt)
+*.db
+*.sqlite3
+
+# Fichiers d'environnement et éditeur
+.env
+.vscode/
+.DS_Store
