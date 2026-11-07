@@ -2,7 +2,7 @@
 
 **Auteur :** Julmice Carl Verlet · ISTEAH · LOG3550 Développement web
 
-**Dépôt Git :** _(à compléter : lien de votre dépôt du devoir 2)_
+**Dépôt Git :*https://github.com/ABC2284/LOG3550-devoir2-backend-fastapi*
 
 ## Description
 API REST FastAPI qui gère les livres du catalogue du devoir 1 : validation Pydantic, stockage SQLite avec SQLModel, 16 tests pytest. Le frontend du devoir 1 (dossier `frontend/`) lit, ajoute et supprime les livres par l'API avec `fetch` au lieu du `localStorage`.
